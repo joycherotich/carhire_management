@@ -1,4 +1,4 @@
-# VistaRide — Car Hire Management & Profitability Dashboard (Frontend)
+# BridgeLink — Car Hire Management & Profitability Dashboard (Frontend)
 
 React + Vite + Tailwind CSS v3, Recharts, React Router, Lucide, date-fns.
 Works **today** with local browser storage and demo data; designed so a real API can replace the data layer later.
